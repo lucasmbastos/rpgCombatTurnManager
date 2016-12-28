@@ -1,0 +1,7 @@
+.nextTurn:hover {
+    background-color: #363636;
+    cursor: pointer;
+}
+.nextTurn:hover strong {
+    color:#23d160;
+}
